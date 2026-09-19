@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 😊
 
-<!--
-**hnnhaui/hnnhaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hannah**, a **Computer Engineering graduate** from Trimex Colleges, interested in software engineering, application development, hardware systems, and networking.
 
-Here are some ideas to get you started:
+I'm passionate about building practical solutions, solving technical problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 Work Experience
+* **Backend Developer Intern @ Ollopa Corporation**
+  * IT Department (Special Project)
+
+*  **Language Tutor | Mathematics Tutor @ Private Teaching**
+    * Seasonal
+  
+### 🏫 Education
+
+* **BS Computer Engineering @ Trimex Colleges**
+
+  * College of Engineering
+  * *2026 Graduated*
+  * Developed knowledge and practical experience across software development, computer hardware, networking, and system design.
+
+### 🌱 Interests
+
+* Software Engineering
+* Web Development
+* Programming
+* Computer Hardware
+* Networking
+* Emerging Technologies
+* Mathematics & Problem Solving
+* Continuous Learning
+
+### 💬 Reach Me
+
+📫 **Email:** [mahannahruthatuli24@gmail.com](mailto:mahannahruthatuli24@gmail.com)
+
+</div>
